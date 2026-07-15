@@ -9,6 +9,7 @@
    
 폴더 구조 예시:
 my-vite-project/       //부모 디렉토리
+
 ├── public/                
 │   └── favicon.ico         
 ├── src/                   
