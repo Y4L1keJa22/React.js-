@@ -4,12 +4,11 @@
 
 필수 준비:
 1. https://drive.google.com/drive/folders/1oKAd_IMWq_23g9Oc8nLrxBBQwT8FVQZK?usp=sharing
-   이를 접속하여 파일을 다운로드하고 public,src, README.md ... 등 파일들 옆에 옮기기
+   이를 접속하여 전체 폴더(node_modules 드롭다운 -> Download)를 다운로드하고 public,src, README.md ... 등 파일들 옆에 옮기기
 
 실행 방법:
 1. 부모 디렉터리(src 디렉터리보다 한층 위)를 접속하여 "npm run dev" 실행
 2. 제공한 Local URL를 복사하여 브라우저에 붙여놓기해서 접속
-
 
 제작일: 2025-12월-20일 19시
 
