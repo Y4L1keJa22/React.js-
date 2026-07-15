@@ -32,6 +32,11 @@ my-vite-project/       //부모 디렉토리
 1. 부모 디렉터리(src 디렉터리보다 한층 위)를 접속하여 "npm run dev" 실행
 2. 제공한 Local URL를 복사하여 브라우저에 붙여놓기해서 접속
 
+
+
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/ee1dc787-ad40-425e-a323-42d346243b90" />
+
+
 제작일: 2025-12월-20일 19시
 
 최근 수정일: 2026-12월-20일 16:00시
