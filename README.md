@@ -19,7 +19,6 @@ my-vite-project/       //부모 디렉토리
 │   └── main.jsx/tsx        
 ├── node_modules/
 
-
 │   ├── .bin/           
 │   ├── .vite/         
 │   ├── aria-hidden/      
